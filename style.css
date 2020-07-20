@@ -13,6 +13,12 @@ body {
   }
 
   #app {
-    color: rgb(188, 133, 240);
+    color: rgb(123, 23, 218);
     text-align: center;
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  #app ul {
+      background-color: rgb(255, 163, 228);
   }
