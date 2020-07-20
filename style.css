@@ -3,11 +3,16 @@ body {
   }
   
   h1 {
-    color: white;
+    color: rgb(188, 133, 240);
     text-align: center;
   }
   
   p {
     font-family: verdana;
     font-size: 20px;
+  }
+
+  #app {
+    color: rgb(188, 133, 240);
+    text-align: center;
   }
